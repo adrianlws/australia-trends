@@ -1,0 +1,14 @@
+date,topic_key,google_present,reddit_present,reddit_mentions,reddit_engagement,sample_google_topic,sample_reddit_topic,cross_platform_bonus,story_score,trend_type,display_label
+5/04/2026,easter bilby populations quadruple across australian sanctuaries,FALSE,TRUE,1,1,NA,'Easter bilby' populations quadruple across Australian sanctuaries,0,5.05,reddit_heavy,'Easter bilby' populations quadruple across Australian sanctuaries
+5/04/2026,interaction optus typo not,FALSE,TRUE,1,1,NA,Interaction with Optus - A typo or or not?,0,5.05,reddit_heavy,Interaction with Optus - A typo or or not?
+5/04/2026,sydney daily random discussion thread 06 04 2026,FALSE,TRUE,1,1,NA,Sydney Daily Random Discussion Thread 06/04/2026,0,5.05,reddit_heavy,Sydney Daily Random Discussion Thread 06/04/2026
+5/04/2026,artemis 2 live stream,TRUE,FALSE,0,0,artemis 2 live stream,NA,0,0,search_spike,artemis 2 live stream
+5/04/2026,artificial intelligence,TRUE,FALSE,0,0,artificial intelligence,NA,0,0,search_spike,artificial intelligence
+5/04/2026,bucks vs grizzlies,TRUE,FALSE,0,0,bucks vs grizzlies,NA,0,0,search_spike,bucks vs grizzlies
+5/04/2026,is it public holiday today,TRUE,FALSE,0,0,is it a public holiday today,NA,0,0,search_spike,is it a public holiday today
+5/04/2026,nancy guthrie,TRUE,FALSE,0,0,nancy guthrie,NA,0,0,search_spike,nancy guthrie
+5/04/2026,state pension,TRUE,FALSE,0,0,state pension,NA,0,0,search_spike,state pension
+5/04/2026,texas open,TRUE,FALSE,0,0,texas open,NA,0,0,search_spike,texas open
+5/04/2026,tommy fleetwood,TRUE,FALSE,0,0,tommy fleetwood,NA,0,0,search_spike,tommy fleetwood
+5/04/2026,tommy paul,TRUE,FALSE,0,0,tommy paul,NA,0,0,search_spike,tommy paul
+5/04/2026,windows update,TRUE,FALSE,0,0,windows update,NA,0,0,search_spike,windows update

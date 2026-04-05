@@ -1,0 +1,4 @@
+subreddit,enabled,weight
+australia,TRUE,1.0
+sydney,TRUE,1.0
+australian,TRUE,0.8
